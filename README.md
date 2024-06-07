@@ -11,7 +11,7 @@ Third file, "snake.py" --> This file is responsible for the snake created to be 
 
 fourth file, "scoreboard.py" --> yeah the last file I don't trouble you more, This file performs the operation of updating the score when the snake eats the food there is a simple logic behind it, when the snake is around the food with less distance from the center of the food then it is considered as it has eaten the food that means we can increment the score
 
-Yep! that is all there to know, but yeah ther is a .txt file to store the score in .txt file (not so professional) but yet I do not want to lose my highscore so that when I come back to play again the Highscore remains. Just an addition
+Yep! that is all there to know, but yeah there is a .txt file to store the score in .txt file (not so professional) but yet I do not want to lose my highscore so that when I come back to play again the Highscore remains. Just an addition
 
 The Question is HOW TO RUN IT?
 
