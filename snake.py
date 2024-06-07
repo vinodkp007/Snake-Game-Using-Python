@@ -67,7 +67,7 @@ class Snake:
 
 
 
-# the below code is written by you to create a snake body of three segments
+# the below code is written as an alternate to create a snake body of three segments
 # co_ordinates = [0,-20,-40]
 # for i in range(3):
 #     snake = Turtle("square")

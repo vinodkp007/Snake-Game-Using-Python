@@ -1,5 +1,4 @@
 import turtle
-#  this is done on day 21
 ALIGNMENT = "center"
 FONT = ("Arial", 20, "normal")
 class ScoreBoard(turtle.Turtle):
